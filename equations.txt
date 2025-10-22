@@ -1,0 +1,5 @@
+﻿"DriveMotorLength"= 90mm
+"DriveMotorGap"= 10mm
+"AluminumThickness"= 0.5in
+"ChassisWidth"= ( "DriveMotorLength" + "AluminumThickness" ) * 2 + "DriveMotorGap"
+"RepeatMagnumHoleWidth"= 19.05mm
