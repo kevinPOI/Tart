@@ -3,3 +3,9 @@
 "AluminumThickness"= 0.5in
 "ChassisWidth"= ( "DriveMotorLength" + "AluminumThickness" ) * 2 + "DriveMotorGap"
 "RepeatMagnumHoleWidth"= 19.05mm
+"MortiseWidth"= 16mm
+"ChassisScrewThruHole"= 5.5mm
+"D11@Sketch1"="MortiseSlotWidth"
+"D12@Sketch1"="ChassisScrewThruHole"
+"D16@Sketch1"="ChassisScrewThruHole"
+"MortiseSlotWidth"= 16.2mm
