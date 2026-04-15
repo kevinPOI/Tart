@@ -1,9 +1,14 @@
 # Tart
-Cad for tartarus 2025-26
+
+Cad for Tartarus 2026 for October NHRL
+
 
 
 Team:
 
-Ryan (CAD Drive Assembly, Manufacturing)
+Ryan (CAD Chassis Assembly, Manufacturing, Electronics)
 
-Kevin (CAD Weapon Assembly, Manufacturing)
+Kevin (CAD Chassis Assembly)
+
+Peter (CAD Weapon Assembly, Manufacturing)
+
